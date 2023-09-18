@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Let's connect
-[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)(https://twitter.com/jjbuell_dev)]
+[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/jjbuell_dev)
+[![My LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjbuell-dev/)
+
 
